@@ -1,6 +1,6 @@
 # saigonbynight
 
-![saigonbynight](./images/saigonbynight.png)
+![saigonbynight](./images/saigonbynight.PNG)
 
 E-commerce marketing website model on Covid lockdown based on Facebook Group.
 (This project has been stopped due to my lack of experience when merging 3 frameworks altogether make the website becoming more slowly).
@@ -55,7 +55,7 @@ $ python manage.py runserver
 
 ## Some images of this project.
 
-![profile](./images/profile.PNG)
+![profile](./images/profile.png)
 
 ![signup](./images/signup.PNG)
 
