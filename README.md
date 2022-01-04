@@ -3,7 +3,7 @@
 ![saigonbynight](./images/saigonbynight.PNG)
 
 E-commerce marketing website model on Covid lockdown based on Facebook Group.
-(This project has been stopped due to my lack of experience when merging 3 frameworks altogether make the website becoming more slowly).
+(This project has been stopped due to my lack of experience when merging 2 frameworks and other libraries altogether make the website becoming more slowly).
 
 
 ## Frontend.
